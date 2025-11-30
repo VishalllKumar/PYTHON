@@ -92,7 +92,4 @@ Choose Operator(+,-,*,**,/,//,%) : *
 
 ---
 
-### Author
 
-- Your Name  
-- GitHub Repository: [Link to repo]
